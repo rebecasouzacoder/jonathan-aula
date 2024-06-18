@@ -120,7 +120,7 @@ body {
 
 .custom_nav2 .custom_nav-container {
   padding: 5px 0;
-  background-color: #f8bc1a;
+  background-color: #fff000;
   -webkit-clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
           clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
 }
@@ -219,7 +219,7 @@ a:focus {
 /* slider section */
 .slider_section {
   height: calc(100% - 80px);
-  background-image: url(../images/slider-bg.jpg);
+  background-image: url(../images/tecnologia-no-rh.jpg);
   background-size: cover;
 }
 
